@@ -1,8 +1,20 @@
-## <b>My Python Journey</b>
-> Python Learning Journey From Scratch 
+# My Python Journey  
+> Learning Python from Scratch in Hindi with CodeWithHarry
 
-- Learning the Python from scratch by watching and solving questions from well known Coding Youtuber `Code With Harry` in `Hindi` Language.
+Welcome to my Python learning journey! I'm starting from the basics and documenting everything I learn through practical coding exercises and notes.
 
-- I have attached the Playlist Link for accessing the playlist for learning. Go And Check it Out.
+##  About This Repository
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=kwD5PT37troKz_cG&amp;list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+This repository contains all my Python practice files, notes, and mini-projects as I follow the **CodeWithHarry** Python playlist (in Hindi).
+
+If you're a beginner like me and want to learn Python in a fun and easy way (in Hindi), this playlist is a great place to start!
+
+---
+
+## 📺 Learning Source
+
+I'm learning from the following YouTube playlist:
+
+▶ **[CodeWithHarry - Python Tutorial For Beginners (Hindi)](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)**
+
+---
