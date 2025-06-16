@@ -18,3 +18,31 @@ I'm learning from the following YouTube playlist:
 ▶ **[CodeWithHarry - Python Tutorial For Beginners (Hindi)](https://www.youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)**
 
 ---
+
+## ✅ Progress Tracker
+
+- [x] Setup GitHub Repo
+- [x] Started CodeWithHarry Playlist
+- [x] Complete Basic Syntax & Variables
+- [x] Loops & Conditionals
+- [ ] Functions, Modules, OOP
+- [ ] Build 2–3 Mini Projects
+
+---
+
+## 💬 Language
+
+- **Tutorial Language:** Hindi 🇮🇳  
+- **Coding Language:** Python 🐍  
+- **IDE Used:** Jupyter Notebook / VS Code
+
+---
+
+## 🤝 Let's Connect!
+
+Feel free to follow along, suggest improvements, or clone the repo and start your own journey!
+
+---
+
+> _“Learning to write programs stretches your mind and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”_  
+> — **Bill Gates**
