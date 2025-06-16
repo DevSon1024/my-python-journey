@@ -11,7 +11,7 @@ If you're a beginner like me and want to learn Python in a fun and easy way (in 
 
 ---
 
-## 📺 Learning Source
+## Learning Source
 
 I'm learning from the following YouTube playlist:
 
@@ -30,7 +30,7 @@ I'm learning from the following YouTube playlist:
 
 ---
 
-## 💬 Language
+## Language
 
 - **Tutorial Language:** Hindi 🇮🇳  
 - **Coding Language:** Python 🐍  
@@ -38,7 +38,7 @@ I'm learning from the following YouTube playlist:
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 Feel free to follow along, suggest improvements, or clone the repo and start your own journey!
 
